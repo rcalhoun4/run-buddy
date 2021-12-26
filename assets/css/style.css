@@ -140,6 +140,11 @@ section {
     border-color: #39a6b2;
 }
 
+.tertiary-border {
+    border-color: #39a6b2;
+    color: #fce138;
+}
+
 .intro p {
     line-height: 1.7;
     color: #39a6b2;
@@ -222,6 +227,9 @@ section {
     line-height: 1.3;
 }
 
-.joanna img {
-    float: right;
+.reach-out {
+    text-align: center;
+    background: #024e76;
+    overflow: auto;
 }
+
